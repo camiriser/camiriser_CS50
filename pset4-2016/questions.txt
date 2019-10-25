@@ -1,0 +1,19 @@
+0.  TODO BMP = 16,7 millions; GIF = 256; PNG = 16 millions; JPEG = 16 millions 
+1.  TODO GIF
+2.  TODO lossy is when you lost some bits of info, and lossless is when you dont lose information when you unzip a file.
+3.  TODO JPEG
+4.  TODO 
+5.  TODO
+6.  TODO
+7.  TODO
+8.  TODO
+9.  TODO
+10. TODO
+11. TODO
+12. TODO
+13. TODO
+14. TODO
+15. TODO
+16. TODO
+17. TODO
+18. TODO
